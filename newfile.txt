@@ -1,0 +1,2 @@
+- Create and add a new file to the local repository, then commit everything you have done so far.
+- Push the commits to the remote repository.
